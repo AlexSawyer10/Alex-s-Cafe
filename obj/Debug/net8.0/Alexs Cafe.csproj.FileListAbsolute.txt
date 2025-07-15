@@ -1,0 +1,15 @@
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/bin/Debug/net8.0/Alexs Cafe
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/bin/Debug/net8.0/Alexs Cafe.deps.json
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/bin/Debug/net8.0/Alexs Cafe.runtimeconfig.json
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/bin/Debug/net8.0/Alexs Cafe.dll
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/bin/Debug/net8.0/Alexs Cafe.pdb
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/Alexs Cafe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/Alexs Cafe.AssemblyInfoInputs.cache
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/Alexs Cafe.AssemblyInfo.cs
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/Alexs Cafe.csproj.CoreCompileInputs.cache
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/Alexs Cafe.sourcelink.json
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/Alexs Cafe.dll
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/refint/Alexs Cafe.dll
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/Alexs Cafe.pdb
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/Alexs Cafe.genruntimeconfig.cache
+/Users/alexsawyer/Documents/Repositories/Alex_Cafe/obj/Debug/net8.0/ref/Alexs Cafe.dll

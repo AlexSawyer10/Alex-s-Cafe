@@ -2,8 +2,6 @@ namespace Alexs_Cafe;
 
 public class Order
 {
-    Customer customer1 = new Customer();
-    
     
     public void Menu()
     {
@@ -15,14 +13,14 @@ public class Order
 
     List<String> userInputList = new();
 
-    public void UserOrder()
+    public Customer UserOrder(Customer customer1)
     {
         bool validInputCheck = false;
         
         while (!validInputCheck)
         {
 
-            List<String> availableOptions = ["cheese Pizza", "pepperoni Pizza", "veggie Pizza", "black Coffee"];
+            List<String> availableOptions = ["cheese pizza", "pepperoni pizza", "veggie pizza", "black coffee"];
         
             Console.WriteLine("Input your order here, comma separated.");
             String orderInput = Console.ReadLine()!.ToLower();
@@ -38,15 +36,14 @@ public class Order
                 }
                 else
                 {
-                    Console.WriteLine("Your order will be right out!");
                     validInputCheck = true;
                 }
             }
             
         }
-        
         customer1.SetOrder(userInputList);
         
- 
+        return customer1;
     }
+
 }

@@ -2,14 +2,14 @@ namespace Alexs_Cafe;
 
 public class Customer
 {
-    public List<String> OrderList = [];
-    public string FirstName;
-    public string LastName;
-    public string Email;
+    private List<String> OrderList;
+    private string FirstName;
+    private string LastName;
+    private string Email;
 
-    public void SetOrder(List<String> userOrder)
+    public void SetOrder(List<String> userInputList)
     {
-        this.OrderList = userOrder;
+        this.OrderList = userInputList;
     }
 
     public List<String> GetOrder()
